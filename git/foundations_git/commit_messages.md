@@ -82,7 +82,7 @@ When writing code, it's considered best practice to commit every time you have a
 
 In other words, make a commit if you get a piece of code you are working on to function like you want it to, fix a typo, or fix a bug. As you gain experience, you will develop a better feel for what should be committed!
 
-There will come a time when you are working on a project and you FINALLY get something just right (this would be a good time to commit), and then maybe 30 seconds to a few days later it breaks. You have no idea what you changed, everything *looks* to be the same and you don’t remember editing that line, but alas, it isn’t working how you want it anymore. You’d be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what your code looked like at that point in time.
+There will come a time when you are working on a project and you FINALLY get something just right (this would be a good time to commit), and then maybe 30 seconds to a few days later it breaks. You have no idea what you changed, everything _looks_ to be the same and you don’t remember editing that line, but alas, it isn’t working how you want it anymore. You’d be able to go back through your commit history and either revert your code back to the last commit you made when you first got that part working or go back and see what your code looked like at that point in time.
 
 ### Assignment
 
@@ -103,8 +103,9 @@ There will come a time when you are working on a project and you FINALLY get som
 
 The following questions are an opportunity to reflect on key topics in this lesson. If you can't answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
 
-- [What are two benefits of having well-written commit messages and a good commit history?](https://cbea.ms/git-commit/#intro)
-- [How many characters should the subject line of your commit message be?](https://cbea.ms/git-commit/#limit-50)
+<!--Just continue the hard work-->
+<!--- [What are two benefits of having well-written commit messages and a good commit history?](https://cbea.ms/git-commit/#intro)-->
+<!--- [How many characters should the subject line of your commit message be?](https://cbea.ms/git-commit/#limit-50)-->
 
 ### Additional resources
 
